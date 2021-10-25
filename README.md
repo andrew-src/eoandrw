@@ -1,4 +1,4 @@
-# Hi there, I'm Andrew 👋
+<h1> Hi there, I'm Andrew <img src="https://emoji.gg/assets/emoji/wavegif_1860.gif" width="60"><h1/>
 
 🚀 About me:
 
@@ -24,7 +24,13 @@
 <!--
 **eoandrw/eoandrw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+GIFS:
+ 
+  https://shuharido.com/blog1/wp-content/uploads/2018/09/Ultimate_thonking.gif
+
+  https://i.pinimg.com/originals/b2/80/04/b28004f7afc575841cbb410d1402e419.gif
+
+Here are some ideas to get you started 👋:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

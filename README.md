@@ -1,9 +1,14 @@
 # Hi there, I'm Andrew 👋
 
-  - 📚 I’m currently learning JavaScript, HTML and CSS
-  - 🌐 I’m looking for help with Front-end web development
+🚀 About me:
 
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=eoandrw&show_icons=true&theme=github_dark)
+  - 📚 I’m currently focused in learning JavaScript, HTML and CSS
+  - 🌐 I’m looking for help with Front-end web development
+  - 📌 I live in São Paulo, Brazil
+  - 👨‍🎓 Currently studying at FATEC 
+  - 💬 Any help or tips are always welcome!
+
+![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=eoandrw&show_icons=true&theme=github_dark&hide_title=true)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eoandrw&hide=GLSL&theme=github_dark&layout=compact)](https://github.com/eoandrw/github-readme-stats) 
   

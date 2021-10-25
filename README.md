@@ -5,16 +5,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eoandrw&repo=github-readme-stats" />
 </a>
 -->
-
-
-- 📚 I’m currently learning JavaScript, HTML and CSS
-- 🌐 I’m looking for help with Front-end web development
-
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=eoandrw&show_icons=true&theme=github_dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eoandrw&hide=GLSL&theme=github_dark&layout=compact)](https://github.com/eoandrw/github-readme-stats) 
-
-[![Andrew's Linkedin Page](https://img.shields.io/badge/Andrew-Linkedin-%230a66c2)](https://www.linkedin.com/in/andrew-reis1/)
+  - 📚 I’m currently learning JavaScript, HTML and CSS
+  - 🌐 I’m looking for help with Front-end web development
+<p align="center">
+  ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=eoandrw&show_icons=true&theme=github_dark)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eoandrw&hide=GLSL&theme=github_dark&layout=compact)](https://github.com/eoandrw/github-readme-stats) 
+  [![Andrew's Linkedin Page](https://img.shields.io/badge/Andrew-Linkedin-%230a66c2)](https://www.linkedin.com/in/andrew-reis1/)
+<p/>
 
 <!-- 
 <p align="center">

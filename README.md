@@ -1,6 +1,7 @@
 <h1> Hi there, I'm Andrew <img src="https://emoji.gg/assets/emoji/wavegif_1860.gif" width="60"></h1>
 
 🚀 About me:
+  - 🔭 I’m currently working as an Intern at Vivo (Telefônica Brasil) 💜
   - 📚 I’m currently focused in learning JavaScript, HTML and CSS
   - 🌐 I’m looking for help with Front-end web development
   - 📌 I live in São Paulo, Brazil

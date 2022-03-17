@@ -2,7 +2,7 @@
 
 🚀 About me:
   - 🔭 I’m currently working as an Intern at Vivo (Telefônica Brasil) 💜
-  - 📚 I’m currently focused in learning JavaScript, HTML and CSS
+  - 📚 Focused in learning JavaScript, HTML and CSS
   - 🌐 I’m looking for help with Front-end web development
   - 📌 I live in São Paulo, Brazil
   - 👨‍🎓 Currently studying at FATEC 

@@ -9,14 +9,15 @@
   - 💬 Any help or tips are always welcome!
   #
 <br>
+<!-- 
 <div>
   <a href="https://github.com/eoandrw">
   <img width=auto height="150em" src="https://github-readme-stats.vercel.app/api?username=eoandrw&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=contribs"/>
-  <img width=auto height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eoandrw&layout=compact&theme=github_dark"/>
+  <img width=auto height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eoandrw&layout=compact&theme=github_dark"/> 
 </div>  
 </div>
+-->
   
-  #
   
 <h3 align="left">Languages and Tools: <img src="https://i.pinimg.com/originals/5d/83/69/5d8369d65e9b8b2987122aac9d5a1e9f.gif" width="30"></h3>
 <p align="left"> 
